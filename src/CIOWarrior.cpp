@@ -1,9 +1,8 @@
 /**
  * \file CIOWarrior.cpp
  *
- * \brief implementation of the IOWarrior40 control class
- * \author Antje Wirth <antje.wirth@h-da.de>
- * \author Holger Frank <holger.frank@h-da.de>
+ *  Created on: Dec 15th, 2024
+ *      Author: Akhil Sai Nallapati
  */
 using namespace std;
 #include <iostream>

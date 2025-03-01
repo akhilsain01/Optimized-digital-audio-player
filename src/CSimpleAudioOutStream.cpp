@@ -2,9 +2,8 @@
  * \file CSimpleAudioOutStream.cpp
  * \brief implementation of CSimpleAudioOutStream
  *
- * \date Sept 24, 2019
- * \author A. Wirth <antje.wirth@h-da.de>
- * \author H. Frank <holger.frank@h-da.de>
+ *  Created on: Dec 3rd, 2024
+ *  Author: Akhil Sai Nallapati
  */
 #include <stdlib.h>
 #include <memory.h>

@@ -2,9 +2,8 @@
  * \file CIOWarrior.h
  *
  * \brief Interface for CIOWarrior, CIoWarriorExt
- * \date 05.10.21
- * \author Antje Wirth <antje.wirth@h-da.de>
- * \author Holger Frank <holger.frank@h-da.de>
+ *  Created on: Dec 15th, 2024
+ *  Author: Akhil Sai Nallapati
  */
 #ifndef CIOWARRIOR_H_
 #define CIOWARRIOR_H_

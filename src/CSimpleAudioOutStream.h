@@ -2,9 +2,8 @@
  * \file CSimpleAudioOutStream.h
  * \brief interface of CSimpleAudioOutStream
  *
- * \date Sept 24, 2019
- * \author A. Wirth <antje.wirth@h-da.de>
- * \author H. Frank <holger.frank@h-da.de>
+ *  Created on: Dec 3rd, 2024
+ *      Author: Akhil Sai Nallapati
  */
 
 #ifndef CSIMPLEAUDIOPLAYER_H_
